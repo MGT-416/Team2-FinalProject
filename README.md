@@ -15,7 +15,7 @@ The work on these questions was done in different parts. First of all, it was ne
 IMPORTANT : As the size of the data is really important (almost 4 000 000 lines in some files), the cleaning and analysis notebooks take really long time to execute. 
 
 Here are some informatioon on the structure of the project and how the data were cleaned and analyzed:
-  - The final project notebook contains all the analysis, comments and conclusion on the project. 
+  - The "Final Project report" notebook contains all the analysis, comments and conclusion on the project. 
   - The folder data_cleaning contains all the notebooks and useful files to prepare the data. The main notebook Data Cleaning Final contains four main parts : 
     - Identification of the relevant routes, trips and stops
     - Identification of trips sequence
