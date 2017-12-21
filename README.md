@@ -23,4 +23,4 @@ Here are some informatioon on the structure of the project and how the data were
     - Network generation with attributes
   - The UML diagramm in PNG format shows the architecture of the data.
   - The CFF_Graph contains only the trains and the CFF_Graph_Final_3 contains also the busses.
-  - The network analysis final contains all the code for the analysis
+  - The notebook "Network analysis final" contains all the code for the analysis. It is the same code as the one included in the report.
